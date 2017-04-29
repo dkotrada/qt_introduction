@@ -82,26 +82,3 @@ ApplicationWindow { // rootContext ist das Programm-Fenster
         source: "dice.png"
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
